@@ -1,0 +1,1 @@
+{"Errors":[{"code":0,"message":"BadRequest"}],"Version":"1.1","Content":{"Headers":[{"Key":"Content-Type","Value":["application/json"]}]},"StatusCode":400,"ReasonPhrase":"Bad Request","Headers":[],"TrailingHeaders":[],"RequestMessage":null,"IsSuccessStatusCode":false}
