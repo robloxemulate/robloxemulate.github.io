@@ -29,5 +29,5 @@ disallow: /upgrades/checkout/success?giftPurchaseId=*
 disallow: /report-abuse
 disallow: /*/report-abuse
 
-Sitemap: https://www.roblox.com/sitemap.xml
-Sitemap: https://www.roblox.com/sitemap-games.xml
+Sitemap: /sitemap.xml
+Sitemap: /sitemap-games.xml
